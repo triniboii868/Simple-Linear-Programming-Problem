@@ -18,6 +18,7 @@ This is ideal for the company to understand which position is worth hiring while
 # Works cited
 
 ChatGPT used to refine code.
+
 Delivery Driver vacancy and information: https://www.indeed.com/viewjob?jk=036c664333c3596f&from=shareddesktop 
 
 Delivery Associate vacancy and information: https://www.indeed.com/viewjob?jk=358632f4cc145312&from=shareddesktop 
